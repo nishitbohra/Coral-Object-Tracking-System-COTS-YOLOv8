@@ -22,7 +22,7 @@ This project leverages YOLO (You Only Look Once) to detect and analyze marine ob
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/nisihitbohra/advanced-marine-object-detection.git
+   git clone https://github.com/nisihitbohra/Coral-Object-Tracking-System-COTS-YOLOv8.git
    
 2. Install dependencies:
    ```bash
