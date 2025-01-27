@@ -1,6 +1,7 @@
 import streamlit as st
 import numpy as np
 #import cv2
+import ultralytics
 from ultralytics import YOLO
 from PIL import Image
 import plotly.express as px
