@@ -5,4 +5,5 @@ matplotlib
 numpy
 plotly
 ultralytics
-opencv-python
+opencv-python==4.5.1.48
+
