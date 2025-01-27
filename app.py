@@ -69,7 +69,7 @@ def load_custom_css():
 @st.cache_resource
 def load_model():
     try:
-        model_path = 'E:/COTS/aquarium_pretrain/src/runs/cots/weights/pruned_best.pt'
+        model_path = 'pruned_best.pt'
         model = YOLO(model_path)
         return model
     except Exception as e:
