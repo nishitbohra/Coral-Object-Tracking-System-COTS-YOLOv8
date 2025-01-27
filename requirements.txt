@@ -5,4 +5,3 @@ matplotlib
 numpy
 plotly
 ultralytics
-cv2
